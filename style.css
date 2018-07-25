@@ -1,0 +1,74 @@
+body {
+  background-color: rgb(200, 200, 200);
+  color: rgb(100, 100, 100);
+  font-size:18px;
+  line-height:20px;
+}
+
+h1 {
+  font-family: 'Sunflower', sans-serif;
+  color: rgb(0,0,0);
+  font-size:30px;
+  line-height:
+}
+
+h2{
+  font-family: 'Sunflower', sans-serif;
+  color: rgb(0,0,0);
+  font-size:20px;
+  line-height:
+}
+
+h3{
+  font-family: 'Sunflower', sans-serif;
+  color: rgb(0,0,0);
+  font-size: 20px;
+  line-height: 10px;
+}
+
+h4{
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(0,0,0);
+  font-size:;
+  line-height:
+}
+
+.btn-red {
+  background: #DD5555;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  font-weight: 400;
+}
+
+.btn-red:hover {
+  background: #0000CC;
+}
+
+.card {
+  background: white;
+  width: 500px;
+  border-radius: 4px;
+  text-align: center;
+  margin: 30px auto;
+  padding: 20px;
+}
+
+
+.img_round {
+  width: 300px;
+  border-radius: 50%
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0;
+  color: teal;
+}
+
+.list-inline li {
+  display: inline-block;
+  margin: 10px;
+  font-size: 20px;
+  font-weight: 300;
+}
